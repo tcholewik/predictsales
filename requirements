@@ -1,5 +1,7 @@
+ipykernetl
 jupyter
 jupytext
 matplotlib
 pandas
-sklearn
+pylint
+scikit-learn

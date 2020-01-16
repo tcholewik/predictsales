@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/conda/bin/python3"
+}

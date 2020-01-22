@@ -1,1 +1,1 @@
-activate  conda
+conda activate ./conda

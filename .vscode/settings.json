@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "${workspaceFolder}/conda/bin/python3"
+    "python.pythonPath": "${workspaceFolder}/conda/bin/python3",
+    "python.linting.pylintPath": "${workspaceFolder}/conda/bin/pylint"
 }

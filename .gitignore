@@ -1,2 +1,4 @@
 data
 conda
+*.ipynb
+.ipynb_checkpoints

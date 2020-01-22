@@ -1,0 +1,1 @@
+./conda/bin/jupyter-notebook --config=./config/jupyter_config.py --notebook-dir=./notebooks
